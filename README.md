@@ -1,4 +1,4 @@
-# Topographical-Earth
+# Sea-Level-Simulator
 Draws a topographical map of earth using coordinate and altitude data. Sea level can be altered to visualise the effects of climate change and rising sea levels.
 Users can click on the map to print Coordinate and Altitude data. It also calculates Haversine distance between clicked points on the map.
 
